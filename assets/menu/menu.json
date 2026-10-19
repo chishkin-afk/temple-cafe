@@ -1,0 +1,1311 @@
+{
+  "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+  "collected_at": "2026-10-19",
+  "source_notice": "Давно не обновлялось. Источник: Представитель организации",
+  "count": 66,
+  "categories": [
+    "Без категории",
+    "Салаты",
+    "Десерты",
+    "Чай",
+    "Сэндвичи",
+    "Завтрак",
+    "Холодные напитки",
+    "Горячие напитки",
+    "Боулы"
+  ],
+  "photo_notice": "Привязки выполнены вручную: source_label — название написано на изображении; visual_match — сопоставление по видимому составу, не подтверждённая Яндексом связь. candidate_images — неоднозначные варианты. Пути относительно assets/; общие кадры и добавки описаны в evidence.",
+  "items": [
+    {
+      "id": "menu-001",
+      "category": "Без категории",
+      "name": "Сырники",
+      "description": "соус: сметана, клубничный/апельсиновый джем",
+      "price": 450,
+      "currency": "RUB",
+      "volume": "3 шт.",
+      "image": "food/food-029.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-029.jpg",
+          "status": "visual_match",
+          "evidence": "Три сырника, ягоды и соус отдельно; число сырников соответствует порции."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-002",
+      "category": "Без категории",
+      "name": "Альтернативное молоко",
+      "description": "50/70/90",
+      "price": 100,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-003",
+      "category": "Без категории",
+      "name": "Дрип",
+      "description": null,
+      "price": 130,
+      "currency": "RUB",
+      "volume": "1 шт.",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-004",
+      "category": "Без категории",
+      "name": "Чизбургер",
+      "description": "булочка/ мясная котлета/ маринованные огурчики/ чеддер плавленый/ лук/ кетчуп/ горчичный соус",
+      "price": 390,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-004.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-004.jpg",
+          "status": "visual_match",
+          "evidence": "Булочка, мясная котлета, сыр и маринованные огурцы: чизбургер."
+        },
+        {
+          "file": "food/food-005.jpg",
+          "status": "visual_match",
+          "evidence": "На переднем плане чизбургер; оранжевый напиток не позволяет отличить фреш от лимонада."
+        },
+        {
+          "file": "food/food-009.jpg",
+          "status": "visual_match",
+          "evidence": "Чизбургер на переднем плане; напиток и десерт не идентифицированы."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-005",
+      "category": "Без категории",
+      "name": "Цикорий",
+      "description": null,
+      "price": 230,
+      "currency": "RUB",
+      "volume": "200 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-006",
+      "category": "Без категории",
+      "name": "Рисовая каша",
+      "description": "подается с апельсиновым джемом",
+      "price": 340,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-007",
+      "category": "Без категории",
+      "name": "Зеленая гречка с яйцами пашот",
+      "description": "зеленая гречка, 2 пашот, огурец, пармезан",
+      "price": 390,
+      "currency": "RUB",
+      "volume": null,
+      "image": "menu/menu-photo-01.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "menu/menu-photo-01.jpg",
+          "status": "source_label",
+          "evidence": "На самой промокарточке написано «ЗЕЛЕНАЯ ГРЕЧКА»; видны яйца пашот и огурцы."
+        }
+      ],
+      "image_status": "source_label",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-008",
+      "category": "Салаты",
+      "name": "Салат с креветками",
+      "description": "зелень, руккола, креветки, черри, кунжутно-ореховый соус, кунжут",
+      "price": 720,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-007.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-007.jpg",
+          "status": "visual_match",
+          "evidence": "Креветки, микс зелени, черри и кунжут; соответствует салату с креветками, не Цезарю."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-009",
+      "category": "Салаты",
+      "name": "Зелёный салат",
+      "description": "брокколи, огурец, цукини, авокадо, микс зелени, соус, злаки",
+      "price": 580,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-010",
+      "category": "Салаты",
+      "name": "Листья салата с соусом цезарь с креветками",
+      "description": "креветки, романо, цезарь, черри, пармезан, чипсы из багета",
+      "price": 750,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-011",
+      "category": "Салаты",
+      "name": "Листья салата с соусом цезарь с курицей",
+      "description": "курица, романо, цезарь, черри, пармезан, чипсы из багета",
+      "price": 580,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-012",
+      "category": "Десерты",
+      "name": "Банановый брауни",
+      "description": null,
+      "price": 390,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-013",
+      "category": "Десерты",
+      "name": "Картошка",
+      "description": null,
+      "price": 280,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-014",
+      "category": "Десерты",
+      "name": "Трубочка со сгущенкой",
+      "description": null,
+      "price": 260,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-040.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-025.jpg",
+          "status": "visual_match",
+          "evidence": "Вафельная трубочка с начинкой. Кофейный напиток отдельно не идентифицирован."
+        },
+        {
+          "file": "food/food-040.jpg",
+          "status": "visual_match",
+          "evidence": "Вафельные трубочки с карамельной начинкой: трубочка со сгущёнкой."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-015",
+      "category": "Десерты",
+      "name": "Чизкейк классический",
+      "description": null,
+      "price": 370,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-028.jpg",
+          "evidence": "На общей фотографии справа боул с креветкой. Сэндвич с лососем и кусок чизкейка требуют уточнения."
+        }
+      ]
+    },
+    {
+      "id": "menu-016",
+      "category": "Десерты",
+      "name": "Брауни",
+      "description": null,
+      "price": 390,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-017",
+      "category": "Десерты",
+      "name": "Канеле",
+      "description": null,
+      "price": 240,
+      "currency": "RUB",
+      "volume": "1 шт.",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-018",
+      "category": "Десерты",
+      "name": "Конфета",
+      "description": null,
+      "price": 70,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-019",
+      "category": "Десерты",
+      "name": "Френч-тосты",
+      "description": "тосты-бриошь с кленовым сиропом",
+      "price": 370,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-020",
+      "category": "Чай",
+      "name": "Чай листовой",
+      "description": "ассам,\nэрл грей,\nчёрная смородина,\nсенча,\nмолочный улун,\nуспокаивающий,\nтравяной",
+      "price": 280,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-011.jpg",
+          "evidence": "Чай в чайнике. Сорт и состав по фото не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-021",
+      "category": "Чай",
+      "name": "Чай составной",
+      "description": "облепиха,малина",
+      "price": 390,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-011.jpg",
+          "evidence": "Чай в чайнике. Сорт и состав по фото не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-022",
+      "category": "Чай",
+      "name": "Чай гречишный",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-011.jpg",
+          "evidence": "Чай в чайнике. Сорт и состав по фото не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-023",
+      "category": "Сэндвичи",
+      "name": "Сэндвич с беконом",
+      "description": "чиабатта, бекон, груша, сливочный сыр, зелень, вяленые томаты, бальзамик, кунжут",
+      "price": 680,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-030.jpg",
+          "evidence": "Чиабатта с томатом и зеленью. Начинка закрыта, BLT и сэндвич с беконом не различить."
+        }
+      ]
+    },
+    {
+      "id": "menu-024",
+      "category": "Сэндвичи",
+      "name": "Сэндвич с лососем",
+      "description": "черный хлеб, сливочный сыр, авокадо, с/с лосось, яйцо пашот, голландез",
+      "price": 850,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-008.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-008.jpg",
+          "status": "visual_match",
+          "evidence": "Под лососем виден тёмный хлеб; сверху яйцо и голландез. Соответствует сэндвичу с лососем."
+        },
+        {
+          "file": "food/food-050.jpg",
+          "status": "visual_match",
+          "evidence": "Лосось, пашот, авокадо/зелёное пюре и голландез на тёмном тосте соответствуют сэндвичу с лососем."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": [
+        {
+          "file": "food/food-024.jpg",
+          "evidence": "Лосось, яйцо и голландез на хлебе; основание недостаточно видно для отличия бриоши от тёмного хлеба."
+        },
+        {
+          "file": "food/food-027.jpg",
+          "evidence": "Лосось, пашот и голландез; вид хлеба не установлен."
+        },
+        {
+          "file": "food/food-028.jpg",
+          "evidence": "На общей фотографии справа боул с креветкой. Сэндвич с лососем и кусок чизкейка требуют уточнения."
+        },
+        {
+          "file": "food/food-049.jpg",
+          "evidence": "На общей фотографии справа боул Креветка. Остальные блюда точно не идентифицированы."
+        }
+      ]
+    },
+    {
+      "id": "menu-025",
+      "category": "Сэндвичи",
+      "name": "BLT",
+      "description": "чиабатта/бриошь, бекон, салат, майонез, томат, лук, чеддер, шрирача, кленовый сироп",
+      "price": 620,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-034.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-034.jpg",
+          "status": "visual_match",
+          "evidence": "Чиабатта, бекон, томат, салат и чеддер соответствуют BLT."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": [
+        {
+          "file": "food/food-030.jpg",
+          "evidence": "Чиабатта с томатом и зеленью. Начинка закрыта, BLT и сэндвич с беконом не различить."
+        }
+      ]
+    },
+    {
+      "id": "menu-026",
+      "category": "Сэндвичи",
+      "name": "Бриошь с лососем",
+      "description": "бриошь, пюре из авокадо, с/с лосось, пашот, голландез",
+      "price": 850,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-024.jpg",
+          "evidence": "Лосось, яйцо и голландез на хлебе; основание недостаточно видно для отличия бриоши от тёмного хлеба."
+        },
+        {
+          "file": "food/food-027.jpg",
+          "evidence": "Лосось, пашот и голландез; вид хлеба не установлен."
+        },
+        {
+          "file": "food/food-028.jpg",
+          "evidence": "На общей фотографии справа боул с креветкой. Сэндвич с лососем и кусок чизкейка требуют уточнения."
+        },
+        {
+          "file": "food/food-049.jpg",
+          "evidence": "На общей фотографии справа боул Креветка. Остальные блюда точно не идентифицированы."
+        }
+      ]
+    },
+    {
+      "id": "menu-027",
+      "category": "Сэндвичи",
+      "name": "Авокадо тост",
+      "description": "цельнозерновой хлеб, авокадо 1/2, оливковое масло",
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-010.jpg",
+          "evidence": "Тост с нарезанным авокадо и лососем отдельно. Возможен авокадо-тост с добавкой, которой нет в базовом описании."
+        },
+        {
+          "file": "food/food-041.jpg",
+          "evidence": "Тост с авокадо и лососем отдельно; возможен авокадо-тост с добавкой."
+        }
+      ]
+    },
+    {
+      "id": "menu-028",
+      "category": "Сэндвичи",
+      "name": "Гриль-чиз",
+      "description": "зерновой хлеб, сливочное масло, чеддер, голландский сыр, моцарелла, трюфельное масло, томатный конфитюр\n\n+ бекон - 100р",
+      "price": 650,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-029",
+      "category": "Сэндвичи",
+      "name": "Сэндвич с тунцом",
+      "description": "зерновой хлеб, тунец, яйцо, майонез, свежий огурец, маринованный красный лук",
+      "price": 650,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-038.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-038.jpg",
+          "status": "visual_match",
+          "evidence": "Зерновой хлеб, светлая рыбная начинка, свежий огурец и красный лук соответствуют сэндвичу с тунцом."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-030",
+      "category": "Сэндвичи",
+      "name": "Сэндвич с говядиной",
+      "description": "бриошь, котлета из говядины, помидор, маринованные огурцы, чеддер, майонез,\nсоус барбекю, зелень",
+      "price": 640,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-036.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-017.jpg",
+          "status": "visual_match",
+          "evidence": "На переднем плане сэндвич с мясной котлетой, сыром, томатом и зеленью; остальные позиции не привязаны."
+        },
+        {
+          "file": "food/food-031.jpg",
+          "status": "visual_match",
+          "evidence": "В разрезе видны мясная котлета, чеддер, томат, огурцы и зелень."
+        },
+        {
+          "file": "food/food-032.jpg",
+          "status": "visual_match",
+          "evidence": "В разрезе видны мясная котлета, сыр, томат, маринованный огурец и зелень."
+        },
+        {
+          "file": "food/food-035.jpg",
+          "status": "visual_match",
+          "evidence": "На переднем плане сэндвич с мясной котлетой; сзади боул с креветками, брокколи и яйцом."
+        },
+        {
+          "file": "food/food-036.jpg",
+          "status": "visual_match",
+          "evidence": "Сэндвич в разрезе с мясной котлетой, сыром, томатом и зеленью."
+        },
+        {
+          "file": "food/food-037.jpg",
+          "status": "visual_match",
+          "evidence": "Сэндвич в разрезе с мясной котлетой, сыром, томатом и маринованным огурцом."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-031",
+      "category": "Сэндвичи",
+      "name": "Сэндвич с креветкой",
+      "description": "бриошь, креветки, помидор, маринованный лук, коктейльный соус, зелень",
+      "price": 750,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-039.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-033.jpg",
+          "status": "visual_match",
+          "evidence": "На переднем плане сэндвич: креветки, помидор, красный лук, зелень и соус."
+        },
+        {
+          "file": "food/food-039.jpg",
+          "status": "visual_match",
+          "evidence": "В разрезе хорошо видны целые креветки, томат, красный лук и зелень."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-032",
+      "category": "Завтрак",
+      "name": "Скрембл",
+      "description": "зелень,черри,творожный сыр,хлеб\n+ лосось - 400р\n+ креветки - 390р\n+ бекон - 160р\n+ сосиска - 140р\n+ авокадо 1/2 - 200р\n+ грибы - 120р\n+ фасоль - 120р\n+ три сыра - 120р\n+ зелень - 170р",
+      "price": 400,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-026.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-026.jpg",
+          "status": "visual_match",
+          "evidence": "Скрембл, черри, зелень, творожный сыр и хлеб: базовый состав."
+        },
+        {
+          "file": "food/food-047.jpg",
+          "status": "visual_match",
+          "evidence": "Скрембл с добавленными лососем и авокадо. Это вариант с платными добавками."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-033",
+      "category": "Завтрак",
+      "name": "Глазунья",
+      "description": "зелень,черри,творожный сыр,хлеб\n+ лосось - 400р\n+ креветки - 390р\n+ бекон - 160р\n+ сосиска - 140р\n+ авокадо 1/2 - 200р\n+ грибы - 120р\n+ фасоль - 120р\n+ три сыра - 120р\n+ зелень - 170р",
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-021.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-021.jpg",
+          "status": "visual_match",
+          "evidence": "Два жареных яйца, черри, зелень, творожный сыр и хлеб: базовая глазунья."
+        },
+        {
+          "file": "food/food-022.jpg",
+          "status": "visual_match",
+          "evidence": "Глазунья с дополнительными беконом и авокадо; не базовая комплектация."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-034",
+      "category": "Завтрак",
+      "name": "Омлет",
+      "description": "зелень,черри,творожный сыр,хлеб\n+ лосось - 400р\n+ креветки - 390р\n+ бекон - 160р\n+ сосиска - 140р\n+ авокадо 1/2 - 200р\n+ грибы - 120р\n+ фасоль - 120р\n+ три сыра - 120р\n+ зелень - 170р",
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-023.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-023.jpg",
+          "status": "visual_match",
+          "evidence": "Плоский омлет, черри, зелень, творожный сыр и хлеб."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-035",
+      "category": "Холодные напитки",
+      "name": "Айс кофе",
+      "description": null,
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-015.jpg",
+          "evidence": "Кофе со льдом и прозрачным слоем, вероятно тоник. Состав не подтверждён подписью."
+        }
+      ]
+    },
+    {
+      "id": "menu-036",
+      "category": "Холодные напитки",
+      "name": "Айс ти",
+      "description": null,
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-012.jpg",
+          "evidence": "Красный холодный напиток с цитрусом; может быть лимонадом или айс ти."
+        }
+      ]
+    },
+    {
+      "id": "menu-037",
+      "category": "Холодные напитки",
+      "name": "Эспрессо-тоник",
+      "description": "+ кордиал лайм - 50 р",
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-015.jpg",
+          "evidence": "Кофе со льдом и прозрачным слоем, вероятно тоник. Состав не подтверждён подписью."
+        }
+      ]
+    },
+    {
+      "id": "menu-038",
+      "category": "Холодные напитки",
+      "name": "Матча-тоник",
+      "description": null,
+      "price": 350,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-039",
+      "category": "Холодные напитки",
+      "name": "Бамбл",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-040",
+      "category": "Холодные напитки",
+      "name": "Фреш апельсин",
+      "description": null,
+      "price": 330,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-041",
+      "category": "Холодные напитки",
+      "name": "Лимонад",
+      "description": "грейпфрут-розмарин, клубника-тархун, апельсин-тоник",
+      "price": 270,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-012.jpg",
+          "evidence": "Красный холодный напиток с цитрусом; может быть лимонадом или айс ти."
+        }
+      ]
+    },
+    {
+      "id": "menu-042",
+      "category": "Холодные напитки",
+      "name": "Lapochka",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-043",
+      "category": "Холодные напитки",
+      "name": "Coca-Cola",
+      "description": null,
+      "price": 250,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-044",
+      "category": "Горячие напитки",
+      "name": "Эспрессо",
+      "description": null,
+      "price": 220,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-045",
+      "category": "Горячие напитки",
+      "name": "Американо",
+      "description": null,
+      "price": 220,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-046",
+      "category": "Горячие напитки",
+      "name": "Фильтр",
+      "description": null,
+      "price": 230,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-047",
+      "category": "Горячие напитки",
+      "name": "Капучино",
+      "description": null,
+      "price": 260,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-013.jpg",
+          "evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+        }
+      ]
+    },
+    {
+      "id": "menu-048",
+      "category": "Горячие напитки",
+      "name": "Латте",
+      "description": null,
+      "price": 330,
+      "currency": "RUB",
+      "volume": "0,3 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-013.jpg",
+          "evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+        },
+        {
+          "file": "food/food-016.jpg",
+          "evidence": "Молочные кофейные напитки в стаканах; рецепт и объём не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-049",
+      "category": "Горячие напитки",
+      "name": "Флэт уайт",
+      "description": null,
+      "price": 290,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-013.jpg",
+          "evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+        }
+      ]
+    },
+    {
+      "id": "menu-050",
+      "category": "Горячие напитки",
+      "name": "Раф",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-016.jpg",
+          "evidence": "Молочные кофейные напитки в стаканах; рецепт и объём не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-051",
+      "category": "Горячие напитки",
+      "name": "Мокко",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-018.jpg",
+          "evidence": "Коричневый напиток с молочной пеной: какао или мокко, без подписи различить нельзя."
+        }
+      ]
+    },
+    {
+      "id": "menu-052",
+      "category": "Горячие напитки",
+      "name": "Глясе",
+      "description": null,
+      "price": 390,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-053",
+      "category": "Горячие напитки",
+      "name": "Матча",
+      "description": null,
+      "price": 260,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-020.jpg",
+          "evidence": "Зелёный молочный напиток матча; рецепт и объём по фото не определить."
+        },
+        {
+          "file": "menu/menu-photo-02.jpg",
+          "evidence": "Молочный напиток матча; объём и рецепт не подтверждены."
+        }
+      ]
+    },
+    {
+      "id": "menu-054",
+      "category": "Горячие напитки",
+      "name": "Матча-раф",
+      "description": null,
+      "price": 330,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-020.jpg",
+          "evidence": "Зелёный молочный напиток матча; рецепт и объём по фото не определить."
+        },
+        {
+          "file": "menu/menu-photo-02.jpg",
+          "evidence": "Молочный напиток матча; объём и рецепт не подтверждены."
+        }
+      ]
+    },
+    {
+      "id": "menu-055",
+      "category": "Горячие напитки",
+      "name": "Шот эспрессо",
+      "description": null,
+      "price": 130,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-056",
+      "category": "Горячие напитки",
+      "name": "Фильтр",
+      "description": null,
+      "price": 230,
+      "currency": "RUB",
+      "volume": "0,3 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-057",
+      "category": "Горячие напитки",
+      "name": "Капучино",
+      "description": null,
+      "price": 260,
+      "currency": "RUB",
+      "volume": "0,2 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-013.jpg",
+          "evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+        }
+      ]
+    },
+    {
+      "id": "menu-058",
+      "category": "Горячие напитки",
+      "name": "Латте",
+      "description": null,
+      "price": 390,
+      "currency": "RUB",
+      "volume": "0,4 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-013.jpg",
+          "evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+        },
+        {
+          "file": "food/food-016.jpg",
+          "evidence": "Молочные кофейные напитки в стаканах; рецепт и объём не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-059",
+      "category": "Горячие напитки",
+      "name": "Раф",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": "0,3 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-016.jpg",
+          "evidence": "Молочные кофейные напитки в стаканах; рецепт и объём не определить."
+        }
+      ]
+    },
+    {
+      "id": "menu-060",
+      "category": "Горячие напитки",
+      "name": "Мокко",
+      "description": null,
+      "price": 320,
+      "currency": "RUB",
+      "volume": "0,3 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-018.jpg",
+          "evidence": "Коричневый напиток с молочной пеной: какао или мокко, без подписи различить нельзя."
+        }
+      ]
+    },
+    {
+      "id": "menu-061",
+      "category": "Горячие напитки",
+      "name": "Матча",
+      "description": null,
+      "price": 260,
+      "currency": "RUB",
+      "volume": "0,3 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-020.jpg",
+          "evidence": "Зелёный молочный напиток матча; рецепт и объём по фото не определить."
+        },
+        {
+          "file": "menu/menu-photo-02.jpg",
+          "evidence": "Молочный напиток матча; объём и рецепт не подтверждены."
+        }
+      ]
+    },
+    {
+      "id": "menu-062",
+      "category": "Горячие напитки",
+      "name": "Матча-раф",
+      "description": null,
+      "price": 330,
+      "currency": "RUB",
+      "volume": "0,3 мл",
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-020.jpg",
+          "evidence": "Зелёный молочный напиток матча; рецепт и объём по фото не определить."
+        },
+        {
+          "file": "menu/menu-photo-02.jpg",
+          "evidence": "Молочный напиток матча; объём и рецепт не подтверждены."
+        }
+      ]
+    },
+    {
+      "id": "menu-063",
+      "category": "Горячие напитки",
+      "name": "Какао",
+      "description": null,
+      "price": 300,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": [
+        {
+          "file": "food/food-018.jpg",
+          "evidence": "Коричневый напиток с молочной пеной: какао или мокко, без подписи различить нельзя."
+        }
+      ]
+    },
+    {
+      "id": "menu-064",
+      "category": "Боулы",
+      "name": "Боул Креветка",
+      "description": "черный рис, креветки, брокколи, цукини, яйцо, зеленый соус",
+      "price": 800,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-003.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-003.jpg",
+          "status": "visual_match",
+          "evidence": "Креветки, чёрный рис, брокколи, цукини и половинки яйца соответствуют составу боула."
+        },
+        {
+          "file": "food/food-028.jpg",
+          "status": "visual_match",
+          "evidence": "На общей фотографии справа боул с креветкой. Сэндвич с лососем и кусок чизкейка требуют уточнения."
+        },
+        {
+          "file": "food/food-035.jpg",
+          "status": "visual_match",
+          "evidence": "На переднем плане сэндвич с мясной котлетой; сзади боул с креветками, брокколи и яйцом."
+        },
+        {
+          "file": "food/food-045.jpg",
+          "status": "visual_match",
+          "evidence": "Чёрный рис, креветки, брокколи, цукини и яйцо соответствуют боулу Креветка."
+        },
+        {
+          "file": "food/food-046.jpg",
+          "status": "visual_match",
+          "evidence": "Общий кадр: справа боул Креветка, сверху рис с курицей в оранжевом соусе (Индийская курочка). Нижняя левая тарелка не идентифицирована."
+        },
+        {
+          "file": "food/food-049.jpg",
+          "status": "visual_match",
+          "evidence": "На общей фотографии справа боул Креветка. Остальные блюда точно не идентифицированы."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-065",
+      "category": "Боулы",
+      "name": "Боул Утренний",
+      "description": "киноа, лосось, авокадо, 2 яйца пашот, зелень, голландез",
+      "price": 850,
+      "currency": "RUB",
+      "volume": null,
+      "image": null,
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [],
+      "image_status": "not_found",
+      "candidate_images": []
+    },
+    {
+      "id": "menu-066",
+      "category": "Боулы",
+      "name": "Индийская курочка",
+      "description": "рис белый, курица, специи, кинза  \n+ салат:\n   томаты, огурцы,сметана - 220₽",
+      "price": 570,
+      "currency": "RUB",
+      "volume": null,
+      "image": "food/food-046.jpg",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/menu/",
+      "images": [
+        {
+          "file": "food/food-046.jpg",
+          "status": "visual_match",
+          "evidence": "Общий кадр: справа боул Креветка, сверху рис с курицей в оранжевом соусе (Индийская курочка). Нижняя левая тарелка не идентифицирована."
+        }
+      ],
+      "image_status": "visual_match",
+      "candidate_images": []
+    }
+  ],
+  "menu_page_images": [
+    "menu/menu-page-01.jpg",
+    "menu/menu-page-02.jpg",
+    "menu/menu-page-03.jpg"
+  ]
+}

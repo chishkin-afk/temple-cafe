@@ -1,0 +1,4 @@
+import { site } from "@/shared/config/site";
+import { Icon } from "@/shared/ui/icon/icon";
+import styles from "./footer.module.scss";
+export function Footer(){return <footer className={styles.footer}><div className={`container ${styles.inner}`}><a href="#home" className={styles.logo} aria-label="Temple — наверх"><img src="/images/temple-logo.png" alt="Temple" width={130} height={45} loading="lazy" decoding="async"/></a><p>Хороший кофе.<br/>И просто хороший день.</p><div className={styles.links}><a href={site.telegram} target="_blank" rel="noreferrer">Telegram<Icon name="diagonal" size={13}/></a><a href={site.maps} target="_blank" rel="noreferrer">Яндекс Карты<Icon name="diagonal" size={13}/></a></div><span className={styles.copyright}>© Temple, {new Date().getFullYear()}</span><a className={styles.top} href="#home" aria-label="Вернуться наверх"><Icon name="arrow" size={18}/></a></div></footer>}

@@ -1,0 +1,1063 @@
+{
+  "collected_at": "2026-10-19",
+  "source": "https://yandex.ru/maps/org/temple/43794175271/",
+  "files": [
+    {
+      "file": "logo/temple-logo.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/4381564/2a000001839d5efc1b5a5aaa7e8d89258ca6/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "logo",
+      "width": 905,
+      "height": 1280,
+      "bytes": 21839
+    },
+    {
+      "file": "photos/interior-01.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10639454/2a0000018a600ba63bfd52efeb2725babc87/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "interior",
+      "width": 828,
+      "height": 1015,
+      "bytes": 124852
+    },
+    {
+      "file": "photos/interior-02.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/6302373/2a000001818ff75c77881873ffe5a6e866e5/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "interior",
+      "width": 1030,
+      "height": 1280,
+      "bytes": 136703
+    },
+    {
+      "file": "photos/interior-03.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10216747/2a0000018a5c3514a84e4f009bb66f223976/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "interior",
+      "width": 1024,
+      "height": 1280,
+      "bytes": 154985
+    },
+    {
+      "file": "photos/interior-04.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10703420/2a0000018a600ba61aa75421ebf08df63f72/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "interior",
+      "width": 960,
+      "height": 1280,
+      "bytes": 131986
+    },
+    {
+      "file": "photos/entrance.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10648814/2a0000018a6f347edc795dabc8a5395a118a/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "entrance",
+      "credit": {
+        "name": "temple.cafe",
+        "updateTime": "2023-09-07T10:33:48Z",
+        "hasUserIcon": true,
+        "imageUrlTemplate": "https://avatars.mds.yandex.net/get-yapic/25817/0y-3/{size}",
+        "publicId": "et88a23117wvfnnk1pbpq1k0rw"
+      },
+      "width": 853,
+      "height": 1280,
+      "bytes": 136110
+    },
+    {
+      "file": "menu/menu-photo-01.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/14402637/2a000001934920646ef73327f43ce32a62dc/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_photo",
+      "width": 720,
+      "height": 1280,
+      "bytes": 91391,
+      "menu_ids": [
+        "menu-007"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "source_label",
+      "match_evidence": "На самой промокарточке написано «ЗЕЛЕНАЯ ГРЕЧКА»; видны яйца пашот и огурцы."
+    },
+    {
+      "file": "menu/menu-photo-02.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/19695432/2a0000019c0025359f2f40e532cc32902e82/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_photo",
+      "width": 1037,
+      "height": 1280,
+      "bytes": 175422,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-053",
+        "menu-061",
+        "menu-054",
+        "menu-062"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Молочный напиток матча; объём и рецепт не подтверждены."
+    },
+    {
+      "file": "food/food-001.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/18132699/2a0000019c94b7223d54346fbd3590e9cdc6/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_document",
+      "tags": [
+        "Еда"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 171510,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "menu_document",
+      "match_evidence": "Фотография страницы меню: сэндвичи и соусы."
+    },
+    {
+      "file": "food/food-002.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/19707167/2a0000019c94b72a7a27e14a37880f9631d3/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_document",
+      "tags": [
+        "Еда"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 112175,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "menu_document",
+      "match_evidence": "Фотография страницы меню: горячие напитки и чай."
+    },
+    {
+      "file": "food/food-003.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/6311095/2a000001818ff81dcdbadcb9324fa9731289/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда",
+        "Морепродукты"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 144923,
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Креветки, чёрный рис, брокколи, цукини и половинки яйца соответствуют составу боула."
+    },
+    {
+      "file": "food/food-004.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10111752/2a0000018c5789d8ec31ff6bfa9d7d238c01/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда"
+      ],
+      "width": 1024,
+      "height": 1280,
+      "bytes": 77291,
+      "menu_ids": [
+        "menu-004"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Булочка, мясная котлета, сыр и маринованные огурцы: чизбургер."
+    },
+    {
+      "file": "food/food-005.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/20275193/2a0000019eb7871e3f34b5f4d92b33c411a4/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 135766,
+      "menu_ids": [
+        "menu-004"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "На переднем плане чизбургер; оранжевый напиток не позволяет отличить фреш от лимонада."
+    },
+    {
+      "file": "food/food-006.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/17737331/2a0000019c94b720a252970e4c88caffd5ba/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_document",
+      "tags": [
+        "Еда"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 171939,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "menu_document",
+      "match_evidence": "Фотография страницы меню: завтраки, боулы и салаты."
+    },
+    {
+      "file": "food/food-007.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/6203703/2a0000018a7adf53086846c874676f08c9e2/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда",
+        "Морепродукты"
+      ],
+      "width": 828,
+      "height": 1012,
+      "bytes": 151184,
+      "menu_ids": [
+        "menu-008"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Креветки, микс зелени, черри и кунжут; соответствует салату с креветками, не Цезарю."
+    },
+    {
+      "file": "food/food-008.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10488540/2a0000018a6f92e752426982749aa6a2a94d/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда"
+      ],
+      "width": 828,
+      "height": 1011,
+      "bytes": 93105,
+      "menu_ids": [
+        "menu-024"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Под лососем виден тёмный хлеб; сверху яйцо и голландез. Соответствует сэндвичу с лососем."
+    },
+    {
+      "file": "food/food-009.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/20412588/2a0000019eb787226eb03c2c2ab289a25559/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 145456,
+      "menu_ids": [
+        "menu-004"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Чизбургер на переднем плане; напиток и десерт не идентифицированы."
+    },
+    {
+      "file": "food/food-010.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10456159/2a0000018a6f93134e68aa64e47a10089041/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Еда",
+        "Закуски",
+        "Рыба"
+      ],
+      "width": 828,
+      "height": 1012,
+      "bytes": 114044,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-027"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Тост с нарезанным авокадо и лососем отдельно. Возможен авокадо-тост с добавкой, которой нет в базовом описании."
+    },
+    {
+      "file": "food/food-011.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10639454/2a0000018a600ba63bfd52efeb2725babc87/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки",
+        "Чай"
+      ],
+      "width": 828,
+      "height": 1015,
+      "bytes": 124852,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-020",
+        "menu-021",
+        "menu-022"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Чай в чайнике. Сорт и состав по фото не определить."
+    },
+    {
+      "file": "food/food-012.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/17765342/2a0000019eb78723d5d95c4e623b136e29ad/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 88128,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-036",
+        "menu-041"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Красный холодный напиток с цитрусом; может быть лимонадом или айс ти."
+    },
+    {
+      "file": "food/food-013.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/5097872/2a000001818ff84fae28e4e1507c3b6e6986/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки",
+        "Кофе"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 57455,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-047",
+        "menu-048",
+        "menu-049",
+        "menu-057",
+        "menu-058"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+    },
+    {
+      "file": "food/food-014.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/20105000/2a0000019eb78724709cd4ea43e5e1434d79/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 184735,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "unresolved",
+      "match_evidence": "Тост/десерт с клубникой: такого состава в выгруженном меню нет. Точное название не установлено."
+    },
+    {
+      "file": "food/food-015.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/6514890/2a0000018a7adf133fa282488864280b2478/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки"
+      ],
+      "width": 828,
+      "height": 1000,
+      "bytes": 117043,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-037",
+        "menu-035"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Кофе со льдом и прозрачным слоем, вероятно тоник. Состав не подтверждён подписью."
+    },
+    {
+      "file": "food/food-016.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/11371852/2a0000018cee83a7f2c925254613ae96c86b/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки",
+        "Кофе"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 100146,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-048",
+        "menu-058",
+        "menu-050",
+        "menu-059"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Молочные кофейные напитки в стаканах; рецепт и объём не определить."
+    },
+    {
+      "file": "food/food-017.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/13203115/2a0000018eebc3746a606f332b84e42446f5/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки"
+      ],
+      "width": 603,
+      "height": 768,
+      "bytes": 84873,
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "На переднем плане сэндвич с мясной котлетой, сыром, томатом и зеленью; остальные позиции не привязаны."
+    },
+    {
+      "file": "food/food-018.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10216747/2a0000018a7adf9136ebc4c89a350e2a44f8/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки",
+        "Кофе"
+      ],
+      "width": 828,
+      "height": 1002,
+      "bytes": 152936,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-063",
+        "menu-051",
+        "menu-060"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Коричневый напиток с молочной пеной: какао или мокко, без подписи различить нельзя."
+    },
+    {
+      "file": "food/food-019.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/18804755/2a0000019efb55a4d69688e65df4ba30ac48/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 245182,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "unresolved",
+      "match_evidence": "Яйца в томатном соусе с хлебом; вероятно шакшука, которой нет в выгруженном меню."
+    },
+    {
+      "file": "food/food-020.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/9776062/2a0000018acd0139b98f59c37c81ba0ff23c/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Напитки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 138456,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-053",
+        "menu-061",
+        "menu-054",
+        "menu-062"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Зелёный молочный напиток матча; рецепт и объём по фото не определить."
+    },
+    {
+      "file": "food/food-021.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10703420/2a0000018adc1583df882969358153d0f729/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 1253,
+      "height": 1280,
+      "bytes": 189568,
+      "menu_ids": [
+        "menu-033"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Два жареных яйца, черри, зелень, творожный сыр и хлеб: базовая глазунья."
+    },
+    {
+      "file": "food/food-022.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/5235220/2a000001818ff7ce67608e3e85c5d3c88439/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 162938,
+      "menu_ids": [
+        "menu-033"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Глазунья с дополнительными беконом и авокадо; не базовая комплектация."
+    },
+    {
+      "file": "food/food-023.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/11048854/2a0000018acd007fb2f725086a1c5860e20f/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 1257,
+      "height": 1280,
+      "bytes": 234603,
+      "menu_ids": [
+        "menu-034"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Плоский омлет, черри, зелень, творожный сыр и хлеб."
+    },
+    {
+      "file": "food/food-024.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/11393517/2a0000018cfec40c1c2edbd630e082126570/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 151107,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Лосось, яйцо и голландез на хлебе; основание недостаточно видно для отличия бриоши от тёмного хлеба."
+    },
+    {
+      "file": "food/food-025.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/5102477/2a0000018f9cdfeb1a40bf2ea838196502f9/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 1027,
+      "height": 1280,
+      "bytes": 195896,
+      "menu_ids": [
+        "menu-014"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Вафельная трубочка с начинкой. Кофейный напиток отдельно не идентифицирован."
+    },
+    {
+      "file": "food/food-026.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10636707/2a0000018acd007ecade55ec88f3f252fed2/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 1280,
+      "height": 1161,
+      "bytes": 190679,
+      "menu_ids": [
+        "menu-032"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Скрембл, черри, зелень, творожный сыр и хлеб: базовый состав."
+    },
+    {
+      "file": "food/food-027.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/12800836/2a0000018f68656bb9d949bdf598ae5fc437/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 169694,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Лосось, пашот и голландез; вид хлеба не установлен."
+    },
+    {
+      "file": "food/food-028.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/9833397/2a00000189dde5f8e1301dfc71e5f5816c8e/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки"
+      ],
+      "width": 1024,
+      "height": 1280,
+      "bytes": 183527,
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026",
+        "menu-015"
+      ],
+      "match_status": "visual_match",
+      "match_evidence": "На общей фотографии справа боул с креветкой. Сэндвич с лососем и кусок чизкейка требуют уточнения."
+    },
+    {
+      "file": "food/food-029.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10142335/2a0000018adc152ea28684cb403a23ae1492/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Завтраки",
+        "Десерты"
+      ],
+      "width": 1177,
+      "height": 1280,
+      "bytes": 143510,
+      "menu_ids": [
+        "menu-001"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Три сырника, ягоды и соус отдельно; число сырников соответствует порции."
+    },
+    {
+      "file": "food/food-030.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/16494614/2a0000019aff2f64699387ffbe67c0470e73/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 241724,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-025",
+        "menu-023"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Чиабатта с томатом и зеленью. Начинка закрыта, BLT и сэндвич с беконом не различить."
+    },
+    {
+      "file": "food/food-031.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10647561/2a0000018acd01392ef7d0cbd37095b11bc6/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 984,
+      "height": 1280,
+      "bytes": 140936,
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "В разрезе видны мясная котлета, чеддер, томат, огурцы и зелень."
+    },
+    {
+      "file": "food/food-032.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/13499585/2a0000018fa53e872bf6b0460b4d51d08346/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 121711,
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "В разрезе видны мясная котлета, сыр, томат, маринованный огурец и зелень."
+    },
+    {
+      "file": "food/food-033.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10175550/2a0000018a6f40e1c7d17769740b488b46c0/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 185615,
+      "menu_ids": [
+        "menu-031"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "На переднем плане сэндвич: креветки, помидор, красный лук, зелень и соус."
+    },
+    {
+      "file": "food/food-034.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10456159/2a0000018acd00098b16b49c307a2ef1b948/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 1179,
+      "height": 1280,
+      "bytes": 164730,
+      "menu_ids": [
+        "menu-025"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Чиабатта, бекон, томат, салат и чеддер соответствуют BLT."
+    },
+    {
+      "file": "food/food-035.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10768168/2a0000018fa53e8956ba909d2370c6728d8b/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 98666,
+      "menu_ids": [
+        "menu-030",
+        "menu-064"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "На переднем плане сэндвич с мясной котлетой; сзади боул с креветками, брокколи и яйцом."
+    },
+    {
+      "file": "food/food-036.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/9709178/2a0000018a6ed4ec9b6f9c1b3ad7a8ccfa97/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 828,
+      "height": 1016,
+      "bytes": 64145,
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Сэндвич в разрезе с мясной котлетой, сыром, томатом и зеленью."
+    },
+    {
+      "file": "food/food-037.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10953738/2a0000018accffbca8b085c121b8129a1ac1/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 960,
+      "height": 1116,
+      "bytes": 115954,
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Сэндвич в разрезе с мясной котлетой, сыром, томатом и маринованным огурцом."
+    },
+    {
+      "file": "food/food-038.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10767865/2a0000018adc158339c7312c92f05a38f2cc/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 1258,
+      "height": 1280,
+      "bytes": 149327,
+      "menu_ids": [
+        "menu-029"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Зерновой хлеб, светлая рыбная начинка, свежий огурец и красный лук соответствуют сэндвичу с тунцом."
+    },
+    {
+      "file": "food/food-039.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10488540/2a0000018accffbc687bcc790bd7ba1327e4/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Сэндвичи"
+      ],
+      "width": 954,
+      "height": 983,
+      "bytes": 98990,
+      "menu_ids": [
+        "menu-031"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "В разрезе хорошо видны целые креветки, томат, красный лук и зелень."
+    },
+    {
+      "file": "food/food-040.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10142335/2a0000018acd007f566b79c7eeffbaadd5d8/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Десерты"
+      ],
+      "width": 1201,
+      "height": 1280,
+      "bytes": 306760,
+      "menu_ids": [
+        "menu-014"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Вафельные трубочки с карамельной начинкой: трубочка со сгущёнкой."
+    },
+    {
+      "file": "food/food-041.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/11018317/2a0000018cee83a37ce008eda9cc3e723bc6/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Закуски",
+        "Рыба"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 148219,
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-027"
+      ],
+      "match_status": "candidate",
+      "match_evidence": "Тост с авокадо и лососем отдельно; возможен авокадо-тост с добавкой."
+    },
+    {
+      "file": "food/food-042.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10648814/2a0000018a6fac9ba684d9e27fbd2a463695/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Морепродукты"
+      ],
+      "width": 983,
+      "height": 1280,
+      "bytes": 266406,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "unresolved",
+      "match_evidence": "Салат с креветками, грибами и авокадо; не совпадает с опубликованным составом салата с креветками."
+    },
+    {
+      "file": "food/food-043.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/9720767/2a0000018a6faa9e5f5a2baeb97a0cecae49/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Морепродукты",
+        "Рыба"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 115814,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "unresolved",
+      "match_evidence": "Салат/тарелка с лососем и овощами; точного соответствия составам меню нет."
+    },
+    {
+      "file": "food/food-044.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10141118/2a0000018a6fac8e9f29f31f2a86f19cf3bf/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Морепродукты",
+        "Рыба"
+      ],
+      "width": 1028,
+      "height": 1280,
+      "bytes": 164629,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "unresolved",
+      "match_evidence": "Ещё один ракурс блюда на food-043; название не установлено."
+    },
+    {
+      "file": "food/food-045.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10700016/2a0000018afb100ef6e3b0e18c18809bba16/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Морепродукты",
+        "Рыба"
+      ],
+      "width": 1173,
+      "height": 1280,
+      "bytes": 160796,
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Чёрный рис, креветки, брокколи, цукини и яйцо соответствуют боулу Креветка."
+    },
+    {
+      "file": "food/food-046.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/10703420/2a0000018acd00d7689e9f1d7032aaf6ef5f/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Морепродукты",
+        "Рыба"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 181506,
+      "menu_ids": [
+        "menu-064",
+        "menu-066"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Общий кадр: справа боул Креветка, сверху рис с курицей в оранжевом соусе (Индийская курочка). Нижняя левая тарелка не идентифицирована."
+    },
+    {
+      "file": "food/food-047.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/7779554/2a00000184a3874a5ce19cb9f489dfac3d46/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Рыба"
+      ],
+      "width": 576,
+      "height": 768,
+      "bytes": 115807,
+      "menu_ids": [
+        "menu-032"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Скрембл с добавленными лососем и авокадо. Это вариант с платными добавками."
+    },
+    {
+      "file": "food/food-048.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/11371852/2a0000018cee83b100c0d0f3ba457ea83dd6/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Рыба"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 162011,
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "match_status": "unresolved",
+      "match_evidence": "Хлеб со сливочным сыром и красной икрой; такой позиции в выгруженном меню нет."
+    },
+    {
+      "file": "food/food-049.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/5098065/2a000001818ff83356b1edf34aa703d0950a/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Рыба"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 152381,
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026"
+      ],
+      "match_status": "visual_match",
+      "match_evidence": "На общей фотографии справа боул Креветка. Остальные блюда точно не идентифицированы."
+    },
+    {
+      "file": "food/food-050.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/16340554/2a0000019aff2f76f1255f885565154d6949/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "food",
+      "tags": [
+        "Рыба"
+      ],
+      "width": 960,
+      "height": 1280,
+      "bytes": 177052,
+      "menu_ids": [
+        "menu-024"
+      ],
+      "candidate_menu_ids": [],
+      "match_status": "visual_match",
+      "match_evidence": "Лосось, пашот, авокадо/зелёное пюре и голландез на тёмном тосте соответствуют сэндвичу с лососем."
+    },
+    {
+      "file": "menu/menu-page-01.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/18132699/2a0000019c94b7223d54346fbd3590e9cdc6/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_document",
+      "tags": [
+        "Еда"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 171510,
+      "duplicate_of": "food/food-001.jpg"
+    },
+    {
+      "file": "menu/menu-page-02.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/19707167/2a0000019c94b72a7a27e14a37880f9631d3/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_document",
+      "tags": [
+        "Еда"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 112175,
+      "duplicate_of": "food/food-002.jpg"
+    },
+    {
+      "file": "menu/menu-page-03.jpg",
+      "url": "https://avatars.mds.yandex.net/get-altay/17737331/2a0000019c94b720a252970e4c88caffd5ba/XXXL",
+      "source": "https://yandex.ru/maps/org/temple/43794175271/",
+      "kind": "menu_document",
+      "tags": [
+        "Еда"
+      ],
+      "width": 720,
+      "height": 1280,
+      "bytes": 171939,
+      "duplicate_of": "food/food-006.jpg"
+    }
+  ]
+}

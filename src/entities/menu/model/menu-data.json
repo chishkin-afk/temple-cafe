@@ -1,0 +1,596 @@
+[
+  {
+    "id": "menu-001",
+    "name": "Сырники",
+    "category": "Без категории",
+    "description": "соус: сметана, клубничный/апельсиновый джем",
+    "price": 450,
+    "volume": "3 шт.",
+    "image": "/images/menu-001.webp"
+  },
+  {
+    "id": "menu-002",
+    "name": "Альтернативное молоко",
+    "category": "Без категории",
+    "description": "50/70/90",
+    "price": 100,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-003",
+    "name": "Дрип",
+    "category": "Без категории",
+    "description": null,
+    "price": 130,
+    "volume": "1 шт.",
+    "image": null
+  },
+  {
+    "id": "menu-004",
+    "name": "Чизбургер",
+    "category": "Без категории",
+    "description": "булочка/ мясная котлета/ маринованные огурчики/ чеддер плавленый/ лук/ кетчуп/ горчичный соус",
+    "price": 390,
+    "volume": null,
+    "image": "/images/menu-004.webp"
+  },
+  {
+    "id": "menu-005",
+    "name": "Цикорий",
+    "category": "Без категории",
+    "description": null,
+    "price": 230,
+    "volume": "200 мл",
+    "image": null
+  },
+  {
+    "id": "menu-006",
+    "name": "Рисовая каша",
+    "category": "Без категории",
+    "description": "подается с апельсиновым джемом",
+    "price": 340,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-007",
+    "name": "Зеленая гречка с яйцами пашот",
+    "category": "Без категории",
+    "description": "зеленая гречка, 2 пашот, огурец, пармезан",
+    "price": 390,
+    "volume": null,
+    "image": "/images/menu-007.webp"
+  },
+  {
+    "id": "menu-008",
+    "name": "Салат с креветками",
+    "category": "Салаты",
+    "description": "зелень, руккола, креветки, черри, кунжутно-ореховый соус, кунжут",
+    "price": 720,
+    "volume": null,
+    "image": "/images/menu-008.webp"
+  },
+  {
+    "id": "menu-009",
+    "name": "Зелёный салат",
+    "category": "Салаты",
+    "description": "брокколи, огурец, цукини, авокадо, микс зелени, соус, злаки",
+    "price": 580,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-010",
+    "name": "Листья салата с соусом цезарь с креветками",
+    "category": "Салаты",
+    "description": "креветки, романо, цезарь, черри, пармезан, чипсы из багета",
+    "price": 750,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-011",
+    "name": "Листья салата с соусом цезарь с курицей",
+    "category": "Салаты",
+    "description": "курица, романо, цезарь, черри, пармезан, чипсы из багета",
+    "price": 580,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-012",
+    "name": "Банановый брауни",
+    "category": "Десерты",
+    "description": null,
+    "price": 390,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-013",
+    "name": "Картошка",
+    "category": "Десерты",
+    "description": null,
+    "price": 280,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-014",
+    "name": "Трубочка со сгущенкой",
+    "category": "Десерты",
+    "description": null,
+    "price": 260,
+    "volume": null,
+    "image": "/images/menu-014.webp"
+  },
+  {
+    "id": "menu-015",
+    "name": "Чизкейк классический",
+    "category": "Десерты",
+    "description": null,
+    "price": 370,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-016",
+    "name": "Брауни",
+    "category": "Десерты",
+    "description": null,
+    "price": 390,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-017",
+    "name": "Канеле",
+    "category": "Десерты",
+    "description": null,
+    "price": 240,
+    "volume": "1 шт.",
+    "image": null
+  },
+  {
+    "id": "menu-018",
+    "name": "Конфета",
+    "category": "Десерты",
+    "description": null,
+    "price": 70,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-019",
+    "name": "Френч-тосты",
+    "category": "Десерты",
+    "description": "тосты-бриошь с кленовым сиропом",
+    "price": 370,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-020",
+    "name": "Чай листовой",
+    "category": "Чай",
+    "description": "ассам,\nэрл грей,\nчёрная смородина,\nсенча,\nмолочный улун,\nуспокаивающий,\nтравяной",
+    "price": 280,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-021",
+    "name": "Чай составной",
+    "category": "Чай",
+    "description": "облепиха,малина",
+    "price": 390,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-022",
+    "name": "Чай гречишный",
+    "category": "Чай",
+    "description": null,
+    "price": 320,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-023",
+    "name": "Сэндвич с беконом",
+    "category": "Сэндвичи",
+    "description": "чиабатта, бекон, груша, сливочный сыр, зелень, вяленые томаты, бальзамик, кунжут",
+    "price": 680,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-024",
+    "name": "Сэндвич с лососем",
+    "category": "Сэндвичи",
+    "description": "черный хлеб, сливочный сыр, авокадо, с/с лосось, яйцо пашот, голландез",
+    "price": 850,
+    "volume": null,
+    "image": "/images/menu-024.webp"
+  },
+  {
+    "id": "menu-025",
+    "name": "BLT",
+    "category": "Сэндвичи",
+    "description": "чиабатта/бриошь, бекон, салат, майонез, томат, лук, чеддер, шрирача, кленовый сироп",
+    "price": 620,
+    "volume": null,
+    "image": "/images/menu-025.webp"
+  },
+  {
+    "id": "menu-026",
+    "name": "Бриошь с лососем",
+    "category": "Сэндвичи",
+    "description": "бриошь, пюре из авокадо, с/с лосось, пашот, голландез",
+    "price": 850,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-027",
+    "name": "Авокадо тост",
+    "category": "Сэндвичи",
+    "description": "цельнозерновой хлеб, авокадо 1/2, оливковое масло",
+    "price": 350,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-028",
+    "name": "Гриль-чиз",
+    "category": "Сэндвичи",
+    "description": "зерновой хлеб, сливочное масло, чеддер, голландский сыр, моцарелла, трюфельное масло, томатный конфитюр\n\n+ бекон - 100р",
+    "price": 650,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-029",
+    "name": "Сэндвич с тунцом",
+    "category": "Сэндвичи",
+    "description": "зерновой хлеб, тунец, яйцо, майонез, свежий огурец, маринованный красный лук",
+    "price": 650,
+    "volume": null,
+    "image": "/images/menu-029.webp"
+  },
+  {
+    "id": "menu-030",
+    "name": "Сэндвич с говядиной",
+    "category": "Сэндвичи",
+    "description": "бриошь, котлета из говядины, помидор, маринованные огурцы, чеддер, майонез,\nсоус барбекю, зелень",
+    "price": 640,
+    "volume": null,
+    "image": "/images/menu-030.webp"
+  },
+  {
+    "id": "menu-031",
+    "name": "Сэндвич с креветкой",
+    "category": "Сэндвичи",
+    "description": "бриошь, креветки, помидор, маринованный лук, коктейльный соус, зелень",
+    "price": 750,
+    "volume": null,
+    "image": "/images/menu-031.webp"
+  },
+  {
+    "id": "menu-032",
+    "name": "Скрембл",
+    "category": "Завтрак",
+    "description": "зелень,черри,творожный сыр,хлеб\n+ лосось - 400р\n+ креветки - 390р\n+ бекон - 160р\n+ сосиска - 140р\n+ авокадо 1/2 - 200р\n+ грибы - 120р\n+ фасоль - 120р\n+ три сыра - 120р\n+ зелень - 170р",
+    "price": 400,
+    "volume": null,
+    "image": "/images/menu-032.webp"
+  },
+  {
+    "id": "menu-033",
+    "name": "Глазунья",
+    "category": "Завтрак",
+    "description": "зелень,черри,творожный сыр,хлеб\n+ лосось - 400р\n+ креветки - 390р\n+ бекон - 160р\n+ сосиска - 140р\n+ авокадо 1/2 - 200р\n+ грибы - 120р\n+ фасоль - 120р\n+ три сыра - 120р\n+ зелень - 170р",
+    "price": 350,
+    "volume": null,
+    "image": "/images/menu-033.webp"
+  },
+  {
+    "id": "menu-034",
+    "name": "Омлет",
+    "category": "Завтрак",
+    "description": "зелень,черри,творожный сыр,хлеб\n+ лосось - 400р\n+ креветки - 390р\n+ бекон - 160р\n+ сосиска - 140р\n+ авокадо 1/2 - 200р\n+ грибы - 120р\n+ фасоль - 120р\n+ три сыра - 120р\n+ зелень - 170р",
+    "price": 350,
+    "volume": null,
+    "image": "/images/menu-034.webp"
+  },
+  {
+    "id": "menu-035",
+    "name": "Айс кофе",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 350,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-036",
+    "name": "Айс ти",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 350,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-037",
+    "name": "Эспрессо-тоник",
+    "category": "Холодные напитки",
+    "description": "+ кордиал лайм - 50 р",
+    "price": 350,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-038",
+    "name": "Матча-тоник",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 350,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-039",
+    "name": "Бамбл",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 320,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-040",
+    "name": "Фреш апельсин",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 330,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-041",
+    "name": "Лимонад",
+    "category": "Холодные напитки",
+    "description": "грейпфрут-розмарин, клубника-тархун, апельсин-тоник",
+    "price": 270,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-042",
+    "name": "Lapochka",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 320,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-043",
+    "name": "Coca-Cola",
+    "category": "Холодные напитки",
+    "description": null,
+    "price": 250,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-044",
+    "name": "Эспрессо",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 220,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-045",
+    "name": "Американо",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 220,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-046",
+    "name": "Фильтр",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 230,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-047",
+    "name": "Капучино",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 260,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-048",
+    "name": "Латте",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 330,
+    "volume": "0,3 мл",
+    "image": null
+  },
+  {
+    "id": "menu-049",
+    "name": "Флэт уайт",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 290,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-050",
+    "name": "Раф",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 320,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-051",
+    "name": "Мокко",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 320,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-052",
+    "name": "Глясе",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 390,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-053",
+    "name": "Матча",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 260,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-054",
+    "name": "Матча-раф",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 330,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-055",
+    "name": "Шот эспрессо",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 130,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-056",
+    "name": "Фильтр",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 230,
+    "volume": "0,3 мл",
+    "image": null
+  },
+  {
+    "id": "menu-057",
+    "name": "Капучино",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 260,
+    "volume": "0,2 мл",
+    "image": null
+  },
+  {
+    "id": "menu-058",
+    "name": "Латте",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 390,
+    "volume": "0,4 мл",
+    "image": null
+  },
+  {
+    "id": "menu-059",
+    "name": "Раф",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 320,
+    "volume": "0,3 мл",
+    "image": null
+  },
+  {
+    "id": "menu-060",
+    "name": "Мокко",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 320,
+    "volume": "0,3 мл",
+    "image": null
+  },
+  {
+    "id": "menu-061",
+    "name": "Матча",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 260,
+    "volume": "0,3 мл",
+    "image": null
+  },
+  {
+    "id": "menu-062",
+    "name": "Матча-раф",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 330,
+    "volume": "0,3 мл",
+    "image": null
+  },
+  {
+    "id": "menu-063",
+    "name": "Какао",
+    "category": "Горячие напитки",
+    "description": null,
+    "price": 300,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-064",
+    "name": "Боул Креветка",
+    "category": "Боулы",
+    "description": "черный рис, креветки, брокколи, цукини, яйцо, зеленый соус",
+    "price": 800,
+    "volume": null,
+    "image": "/images/menu-064.webp"
+  },
+  {
+    "id": "menu-065",
+    "name": "Боул Утренний",
+    "category": "Боулы",
+    "description": "киноа, лосось, авокадо, 2 яйца пашот, зелень, голландез",
+    "price": 850,
+    "volume": null,
+    "image": null
+  },
+  {
+    "id": "menu-066",
+    "name": "Индийская курочка",
+    "category": "Боулы",
+    "description": "рис белый, курица, специи, кинза  \n+ салат:\n   томаты, огурцы,сметана - 220₽",
+    "price": 570,
+    "volume": null,
+    "image": "/images/menu-066.webp"
+  }
+]

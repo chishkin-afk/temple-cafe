@@ -1,0 +1,6 @@
+{
+  "name": "temple-coffee", "version": "1.0.0", "private": true,
+  "scripts": { "dev": "next dev --hostname 0.0.0.0", "build": "next build", "start": "next start --hostname 0.0.0.0", "typecheck": "tsc --noEmit", "verify:seo": "node scripts/verify-seo.mjs" },
+  "dependencies": { "next": "16.4.2", "react": "19.3.1", "react-dom": "19.3.1", "sass": "^1.93.2" },
+  "devDependencies": { "@types/node": "^22", "@types/react": "^19", "@types/react-dom": "^19", "typescript": "^5.9" }
+}

@@ -1,0 +1,3 @@
+import type { reviews } from "../../model/reviews";
+import styles from "./review-card.module.scss";
+export function ReviewCard({review}:{review:typeof reviews[number]}){return <figure className={styles.review}><div className={styles.stars} aria-label={`${review.rating} из 5`}>★★★★★</div><blockquote><p>«{review.text.trim()}»</p></blockquote><figcaption><span className={styles.avatar} aria-hidden="true">{review.author[0]}</span><div><span className={styles.name}>{review.author}</span><time dateTime={review.date}>{new Intl.DateTimeFormat('ru-RU',{day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Moscow'}).format(new Date(review.date))}</time></div><a href={review.source} target="_blank" rel="noreferrer">Яндекс Карты</a></figcaption></figure>}

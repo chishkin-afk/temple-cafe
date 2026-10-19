@@ -1,0 +1,493 @@
+{
+  "path_base": "assets/",
+  "status_legend": {
+    "source_label": "Название указано на самом изображении.",
+    "visual_match": "Визуальное сопоставление по составу; не подтверждённая источником связь.",
+    "candidate": "Неоднозначное сопоставление, требуется уточнение.",
+    "menu_document": "Страница бумажного меню, не фото блюда.",
+    "unresolved": "Не найдено точного соответствия в меню."
+  },
+  "photos": [
+    {
+      "file": "food/food-001.jpg",
+      "status": "menu_document",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Фотография страницы меню: сэндвичи и соусы."
+    },
+    {
+      "file": "food/food-002.jpg",
+      "status": "menu_document",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Фотография страницы меню: горячие напитки и чай."
+    },
+    {
+      "file": "food/food-003.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Креветки, чёрный рис, брокколи, цукини и половинки яйца соответствуют составу боула."
+    },
+    {
+      "file": "food/food-004.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-004"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Булочка, мясная котлета, сыр и маринованные огурцы: чизбургер."
+    },
+    {
+      "file": "food/food-005.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-004"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "На переднем плане чизбургер; оранжевый напиток не позволяет отличить фреш от лимонада."
+    },
+    {
+      "file": "food/food-006.jpg",
+      "status": "menu_document",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Фотография страницы меню: завтраки, боулы и салаты."
+    },
+    {
+      "file": "food/food-007.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-008"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Креветки, микс зелени, черри и кунжут; соответствует салату с креветками, не Цезарю."
+    },
+    {
+      "file": "food/food-008.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-024"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Под лососем виден тёмный хлеб; сверху яйцо и голландез. Соответствует сэндвичу с лососем."
+    },
+    {
+      "file": "food/food-009.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-004"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Чизбургер на переднем плане; напиток и десерт не идентифицированы."
+    },
+    {
+      "file": "food/food-010.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-027"
+      ],
+      "evidence": "Тост с нарезанным авокадо и лососем отдельно. Возможен авокадо-тост с добавкой, которой нет в базовом описании."
+    },
+    {
+      "file": "food/food-011.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-020",
+        "menu-021",
+        "menu-022"
+      ],
+      "evidence": "Чай в чайнике. Сорт и состав по фото не определить."
+    },
+    {
+      "file": "food/food-012.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-036",
+        "menu-041"
+      ],
+      "evidence": "Красный холодный напиток с цитрусом; может быть лимонадом или айс ти."
+    },
+    {
+      "file": "food/food-013.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-047",
+        "menu-048",
+        "menu-049",
+        "menu-057",
+        "menu-058"
+      ],
+      "evidence": "Кофе с молочной пеной; нельзя определить рецепт и объём."
+    },
+    {
+      "file": "food/food-014.jpg",
+      "status": "unresolved",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Тост/десерт с клубникой: такого состава в выгруженном меню нет. Точное название не установлено."
+    },
+    {
+      "file": "food/food-015.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-037",
+        "menu-035"
+      ],
+      "evidence": "Кофе со льдом и прозрачным слоем, вероятно тоник. Состав не подтверждён подписью."
+    },
+    {
+      "file": "food/food-016.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-048",
+        "menu-058",
+        "menu-050",
+        "menu-059"
+      ],
+      "evidence": "Молочные кофейные напитки в стаканах; рецепт и объём не определить."
+    },
+    {
+      "file": "food/food-017.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "На переднем плане сэндвич с мясной котлетой, сыром, томатом и зеленью; остальные позиции не привязаны."
+    },
+    {
+      "file": "food/food-018.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-063",
+        "menu-051",
+        "menu-060"
+      ],
+      "evidence": "Коричневый напиток с молочной пеной: какао или мокко, без подписи различить нельзя."
+    },
+    {
+      "file": "food/food-019.jpg",
+      "status": "unresolved",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Яйца в томатном соусе с хлебом; вероятно шакшука, которой нет в выгруженном меню."
+    },
+    {
+      "file": "food/food-020.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-053",
+        "menu-061",
+        "menu-054",
+        "menu-062"
+      ],
+      "evidence": "Зелёный молочный напиток матча; рецепт и объём по фото не определить."
+    },
+    {
+      "file": "food/food-021.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-033"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Два жареных яйца, черри, зелень, творожный сыр и хлеб: базовая глазунья."
+    },
+    {
+      "file": "food/food-022.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-033"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Глазунья с дополнительными беконом и авокадо; не базовая комплектация."
+    },
+    {
+      "file": "food/food-023.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-034"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Плоский омлет, черри, зелень, творожный сыр и хлеб."
+    },
+    {
+      "file": "food/food-024.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026"
+      ],
+      "evidence": "Лосось, яйцо и голландез на хлебе; основание недостаточно видно для отличия бриоши от тёмного хлеба."
+    },
+    {
+      "file": "food/food-025.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-014"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Вафельная трубочка с начинкой. Кофейный напиток отдельно не идентифицирован."
+    },
+    {
+      "file": "food/food-026.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-032"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Скрембл, черри, зелень, творожный сыр и хлеб: базовый состав."
+    },
+    {
+      "file": "food/food-027.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026"
+      ],
+      "evidence": "Лосось, пашот и голландез; вид хлеба не установлен."
+    },
+    {
+      "file": "food/food-028.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026",
+        "menu-015"
+      ],
+      "evidence": "На общей фотографии справа боул с креветкой. Сэндвич с лососем и кусок чизкейка требуют уточнения."
+    },
+    {
+      "file": "food/food-029.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-001"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Три сырника, ягоды и соус отдельно; число сырников соответствует порции."
+    },
+    {
+      "file": "food/food-030.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-025",
+        "menu-023"
+      ],
+      "evidence": "Чиабатта с томатом и зеленью. Начинка закрыта, BLT и сэндвич с беконом не различить."
+    },
+    {
+      "file": "food/food-031.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "В разрезе видны мясная котлета, чеддер, томат, огурцы и зелень."
+    },
+    {
+      "file": "food/food-032.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "В разрезе видны мясная котлета, сыр, томат, маринованный огурец и зелень."
+    },
+    {
+      "file": "food/food-033.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-031"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "На переднем плане сэндвич: креветки, помидор, красный лук, зелень и соус."
+    },
+    {
+      "file": "food/food-034.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-025"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Чиабатта, бекон, томат, салат и чеддер соответствуют BLT."
+    },
+    {
+      "file": "food/food-035.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-030",
+        "menu-064"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "На переднем плане сэндвич с мясной котлетой; сзади боул с креветками, брокколи и яйцом."
+    },
+    {
+      "file": "food/food-036.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Сэндвич в разрезе с мясной котлетой, сыром, томатом и зеленью."
+    },
+    {
+      "file": "food/food-037.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-030"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Сэндвич в разрезе с мясной котлетой, сыром, томатом и маринованным огурцом."
+    },
+    {
+      "file": "food/food-038.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-029"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Зерновой хлеб, светлая рыбная начинка, свежий огурец и красный лук соответствуют сэндвичу с тунцом."
+    },
+    {
+      "file": "food/food-039.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-031"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "В разрезе хорошо видны целые креветки, томат, красный лук и зелень."
+    },
+    {
+      "file": "food/food-040.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-014"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Вафельные трубочки с карамельной начинкой: трубочка со сгущёнкой."
+    },
+    {
+      "file": "food/food-041.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-027"
+      ],
+      "evidence": "Тост с авокадо и лососем отдельно; возможен авокадо-тост с добавкой."
+    },
+    {
+      "file": "food/food-042.jpg",
+      "status": "unresolved",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Салат с креветками, грибами и авокадо; не совпадает с опубликованным составом салата с креветками."
+    },
+    {
+      "file": "food/food-043.jpg",
+      "status": "unresolved",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Салат/тарелка с лососем и овощами; точного соответствия составам меню нет."
+    },
+    {
+      "file": "food/food-044.jpg",
+      "status": "unresolved",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Ещё один ракурс блюда на food-043; название не установлено."
+    },
+    {
+      "file": "food/food-045.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Чёрный рис, креветки, брокколи, цукини и яйцо соответствуют боулу Креветка."
+    },
+    {
+      "file": "food/food-046.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-064",
+        "menu-066"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Общий кадр: справа боул Креветка, сверху рис с курицей в оранжевом соусе (Индийская курочка). Нижняя левая тарелка не идентифицирована."
+    },
+    {
+      "file": "food/food-047.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-032"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Скрембл с добавленными лососем и авокадо. Это вариант с платными добавками."
+    },
+    {
+      "file": "food/food-048.jpg",
+      "status": "unresolved",
+      "menu_ids": [],
+      "candidate_menu_ids": [],
+      "evidence": "Хлеб со сливочным сыром и красной икрой; такой позиции в выгруженном меню нет."
+    },
+    {
+      "file": "food/food-049.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-064"
+      ],
+      "candidate_menu_ids": [
+        "menu-024",
+        "menu-026"
+      ],
+      "evidence": "На общей фотографии справа боул Креветка. Остальные блюда точно не идентифицированы."
+    },
+    {
+      "file": "food/food-050.jpg",
+      "status": "visual_match",
+      "menu_ids": [
+        "menu-024"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "Лосось, пашот, авокадо/зелёное пюре и голландез на тёмном тосте соответствуют сэндвичу с лососем."
+    },
+    {
+      "file": "menu/menu-photo-01.jpg",
+      "status": "source_label",
+      "menu_ids": [
+        "menu-007"
+      ],
+      "candidate_menu_ids": [],
+      "evidence": "На самой промокарточке написано «ЗЕЛЕНАЯ ГРЕЧКА»; видны яйца пашот и огурцы."
+    },
+    {
+      "file": "menu/menu-photo-02.jpg",
+      "status": "candidate",
+      "menu_ids": [],
+      "candidate_menu_ids": [
+        "menu-053",
+        "menu-061",
+        "menu-054",
+        "menu-062"
+      ],
+      "evidence": "Молочный напиток матча; объём и рецепт не подтверждены."
+    }
+  ]
+}
