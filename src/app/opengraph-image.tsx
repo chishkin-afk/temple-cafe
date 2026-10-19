@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 
 export const runtime = "nodejs";
-export const alt = "Temple — кофейня на Фридриха Энгельса, 17, Воронеж";
+export const alt = "Temple — кафе на Фридриха Энгельса, 17, Воронеж";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 

@@ -6,7 +6,7 @@ export const metadata:Metadata={
  title:{default:site.title,template:'%s | Temple'},description:site.description,
  applicationName:'Temple',category:'food',
  ...(site.origin?{alternates:{canonical:'/'}}:{}),
- openGraph:{type:'website',locale:'ru_RU',siteName:'Temple',title:site.title,description:site.description,...(site.origin?{url:site.origin,images:[{url:'/opengraph-image',width:1200,height:630,alt:'Temple — кофейня на Фридриха Энгельса, 17 в Воронеже'}]}:{})},
+ openGraph:{type:'website',locale:'ru_RU',siteName:'Temple',title:site.title,description:site.description,...(site.origin?{url:site.origin,images:[{url:'/opengraph-image',width:1200,height:630,alt:'Temple — кафе на Фридриха Энгельса, 17 в Воронеже'}]}:{})},
  twitter:{card:'summary_large_image',title:site.title,description:site.description,...(site.origin?{images:['/opengraph-image']}:{})},
  robots:site.origin?{index:true,follow:true,'max-image-preview':'large'}:{index:false,follow:false},
  icons:{icon:'/icon.svg',apple:'/apple-touch-icon.png'},

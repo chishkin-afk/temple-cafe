@@ -1,8 +1,8 @@
 const configuredOrigin = process.env.NEXT_PUBLIC_SITE_URL?.trim();
 export const site = {
   name: "Temple",
-  title: "Temple — кофейня в Воронеже | Кофе, завтраки и сэндвичи",
-  description: "Кофейня Temple на улице Фридриха Энгельса, 17 в Воронеже. Кофе, завтраки, сэндвичи и десерты. Посмотрите меню, отзывы гостей и маршрут к нам.",
+  title: "Temple — кафе в Воронеже | Кофе, завтраки и сэндвичи",
+  description: "Кафе Temple на улице Фридриха Энгельса, 17 в Воронеже. Кофе, завтраки, сэндвичи и десерты. Посмотрите меню, отзывы гостей и маршрут к нам.",
   origin: configuredOrigin ? new URL(configuredOrigin).origin : undefined,
   address: "ул. Фридриха Энгельса, 17",
   city: "Воронеж",
